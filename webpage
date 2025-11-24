@@ -1,4 +1,5 @@
-HTML FILE <!DOCTYPE html>
+HTML INDEX
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -261,7 +262,6 @@ HTML FILE <!DOCTYPE html>
       <p>This treatment lifts and curls your natural lashes from the root while adding tint for darker, fuller results lasting 6–8 weeks.</p>
     </li>
 
-    <!-- NEW WAXING SERVICES -->
     <li><strong>Lip or Chin Wax:</strong> £11
       <p>A quick and gentle waxing treatment to remove unwanted hair from either the lip or chin area.</p>
     </li>
@@ -363,3 +363,5 @@ HTML FILE <!DOCTYPE html>
 
 </body>
 </html>
+
+     
